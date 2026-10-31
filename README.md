@@ -169,14 +169,12 @@ Through these experiments, I gained practical knowledge of:
 
 👩‍💻 Author
 
-Sajina K M
+Arathi K M
 
-Business Analytics Student
+MBA Business Analytics Student
 
 ⭐ Acknowledgement
 
 This repository is part of my practical learning in Tableau and Business Intelligence. It demonstrates the application of data visualization techniques to different real-world business scenarios.
 
----
 
-If you find this repository useful, feel free to explore the projects!
